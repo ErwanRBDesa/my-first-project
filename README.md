@@ -1,2 +1,3 @@
 # my-first-project
-This is my first project on GitHub
+
+This project is just to get started using GitHub, nothing more nothing less.
